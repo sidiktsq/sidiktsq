@@ -4,9 +4,9 @@
 
 <p> SAYA RIZKY MOCHAMAD SIDIK (SidikTsq)，</p>
 
-[![Mail Badge](https://img.shields.io/badge/-davin@nlfts.dev-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:inimsss475@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@davingm__-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://www.instagram.com/inimsss/_)
-[![GitHub Followers](https://img.shields.io/github/followers/DavinGM?label=GitHub%20Followers)](https://github.com/sidiktsq)
+[![Mail Badge](https://img.shields.io/badge/-inimsss-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:inimsss475@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@inimsss__-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://www.instagram.com/inimsss/_)
+[![GitHub Followers](https://img.shields.io/github/followers/sidiktsq?label=GitHub%20Followers)](https://github.com/sidiktsq)
   
 ![skills](https://skillicons.dev/icons?i=js,ts,nuxtjs,vue,rust,scss,tailwind,vscode,git,figma,vite,redis,supabase,postgres,sqlite,pnpm,pinia,gcp,discord&theme=light)
 
