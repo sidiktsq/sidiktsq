@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="nama_file_kedua.jpg" width="350" />
+<img src="wallpaperflare.com_wallpaper (1).jpg" width="350" />
 
 <br>
 
