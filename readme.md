@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> TEMPAT REPO AING</h1>
 
-<img align="right" height="250" width="400" src="vilhaze.png"/>
+<img align="right" height="200" width="350" src="vilhaze.png"/>
 
 <p> SAYA RIZKY MOCHAMAD SIDIK (SidikTsq)，</p>
 
