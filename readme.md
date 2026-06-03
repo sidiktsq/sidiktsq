@@ -55,10 +55,6 @@ Other        30 mins         ░░░░░░░░░░░░░░░░░
 
 ## 🌟 オープンソースの貢献
 
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sidiktsq&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</div>
-
 <br/>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
